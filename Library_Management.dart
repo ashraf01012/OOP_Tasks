@@ -72,14 +72,14 @@ void main(List<String> args) {
       ISBN: '978-0-06-112008-4',
       availability: 4);
   Book book2 = Book(
-      title: 'Brave New World',
-      author: 'Aldous Huxley',
-      ISBN: '0987654321',
+      title: 'Pride and Prejudice',
+      author: 'Jane Austen',
+      ISBN: '978-0-19-953556-9',
       availability: 2);
   Book book3 = Book(
-      title: 'Fahrenheit 451',
-      author: 'Ray Bradbury',
-      ISBN: '1122334455',
+      title: 'The Great Gatsby',
+      author: 'F. Scott Fitzgerald',
+      ISBN: ' 978-0-7432-7356-5',
       availability: 1);
 
   Library library = Library();
